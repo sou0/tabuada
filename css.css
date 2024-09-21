@@ -1,0 +1,25 @@
+body{
+    background-color: dodgerblue;
+    font: 1em sans-serif;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+section{
+    background-color: white;
+    padding: 2%;
+    box-shadow: 10px 10px 10px 10px#00000052;
+    border-radius: 30px;
+    width: 500px;
+    margin: auto;
+}
+
+
+
+footer{
+    margin-top: 10px;
+    color: white;
+    text-align: center;
+}
